@@ -18,6 +18,7 @@ public class SubStringExample {
 				}
 			}
 			k++;
+			System.out.println("Hi Alam");
 		}
 
 	}
